@@ -1,0 +1,20 @@
+[
+  {
+    "caption": "-_-",
+    "description": "",
+    "additional": "<span style='font-size: 10pt; color: gray; margin-top: 8px;'>20.12.2023</span>",
+    "icon": "<span style='font-size: 86pt'>🆕</span>"
+  },
+  {
+    "caption": "Подписывайтесь!",
+    "description": "Подписывайтесь на <span onclick=openExternal('https://www.youtube.com/@nedohackerslite') class='font-medium text-blue-600 dark:text-blue-500 hover:underline cursor-pointer'>NEDOHACKERS</span>!",
+    "additional": "<span style='font-size: 10pt; color: gray; margin-top: 8px;'>20.12.2023</span>",
+    "icon": "<span style='font-size: 86pt'>🆕</span>"
+  },
+  {
+    "caption": "Не нажимай!",
+    "description": "<span onclick=openExternal('http://x92920ec.beget.tech/openlauncher') class='font-medium text-blue-600 dark:text-blue-500 hover:underline cursor-pointer'>Нажми сюда для открытия видео</span>",
+    "additional": "<span style='font-size: 10pt; color: gray; margin-top: 8px;'>20.07.2023</span>",
+    "icon": "<span style='font-size: 86pt'>📹</span>"
+  }
+]
